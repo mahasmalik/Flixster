@@ -1,8 +1,8 @@
-# Flix
+# Flixster
 
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-## Flix Part 2
+## Flixster Part 2
 
 ### User Stories
 
@@ -25,7 +25,7 @@ Also, a little difficult to understand the url request and response on own for r
 
 ---
 
-## Flix Part 1
+## Flixster Part 1
 
 ### User Stories
 `TODO://` In the **User Stories section below**, add an `x` in the `-[ ]` like this `- [x]` for any user story you complete. (🚫 Remove this paragraph after after checking off completed user stories)
@@ -43,6 +43,3 @@ Also, a little difficult to understand the url request and response on own for r
 
 <img src="http://g.recordit.co/5nN3bTU8l0.gif" width=250><br>
 
-### Notes
-Describe any challenges encountered while building the app.
-Connecting AlamofireImage and setting it - faced some issues that were different than the video but were resolved
